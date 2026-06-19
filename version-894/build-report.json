@@ -1,0 +1,23 @@
+{
+  "records": 1985,
+  "html_files": 2000,
+  "detail_pages": 1985,
+  "category_pages": 10,
+  "missing_ads": [],
+  "missing_baidu": [],
+  "title_order_errors": [],
+  "forbidden_hits": [],
+  "category_counts": {
+    "国产剧场": 201,
+    "电影精选": 201,
+    "都市情感": 201,
+    "悬疑犯罪": 201,
+    "喜剧综艺": 201,
+    "古装武侠": 188,
+    "科幻奇幻": 201,
+    "战争历史": 201,
+    "动画短片": 188,
+    "海外片库": 202
+  },
+  "m3u8_sources_used": 18
+}

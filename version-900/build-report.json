@@ -1,0 +1,10 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2015,
+  "category_pages": 10,
+  "video_sources": 20,
+  "missing_baidu_stats": [],
+  "zip_path": "/mnt/data/movie_static_website.zip",
+  "zip_size_bytes": 11661591
+}
